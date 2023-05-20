@@ -1,0 +1,314 @@
+body{
+    background: linear-gradient(orange, yellow,  orange) ;
+}
+ .b-radius {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 30px 10px;
+    color: black;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 500px;
+  }
+  .b-radius2 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 30px 10px;
+    color: black;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 420px;
+  }
+  .b-radius3 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 30px 10px;
+    color: black;
+    background-color:linear-gradient(yellow, orange) ;
+    width: 420px;
+  }
+  .b-radius4 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 30px 10px;
+    color: black;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 420px;
+  }
+  .b-radius5 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 30px 10px;
+    color: black;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 420px;
+  }
+  .b-radius6 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 30px 10px;
+    color: black;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 480px;
+  }
+  .b-radius7 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 30px 10px;
+    color: black;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 420px;
+  }
+  .a-radius {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 160px;
+   }
+   .a-radius2 {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 160px;
+   }
+   .a-radius3 {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 160px;
+   }
+   .a-radius4 {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 160px;
+   }
+   .a-radius5 {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 200px;
+   }
+   .a-radius6 {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 200px;
+   }
+   .a-radius7 {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 200px;
+     
+   }
+   .a-radius8 {
+    border:4px double gainsboro ;
+     padding: 15px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 160px;
+   }
+   .c-radius {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 50px 50px;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 230px;
+  }
+  .c-radius2 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 50px 50px;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 230px;
+  }
+  .c-radius3 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 50px 50px;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 230px;
+  }
+  .c-radius4 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 50px 50px;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 230px;
+  }
+  .c-radius5 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 50px 50px;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 230px;
+  }
+  .d-radius {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 10em/1em;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 130px;
+  }
+  .d-radius2 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 10em/1em;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 130px;
+  }
+  .d-radius3 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 10em/1em;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 130px;
+  }
+  .d-radius4 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 10em/1em;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 130px;
+  }
+  .d-radius5 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 10em/1em;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 130px;
+  }
+  .d-radius6 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 10em/1em;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 130px;
+  }
+  .d-radius7 {
+    border:4px double gainsboro ;
+    padding: 25px;
+    border-radius: 10em/1em;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 130px;
+  }
+  
+  .a-radius8 {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 160px;
+  }
+
+  .h-radius {
+    border:3px solid gainsboro;
+    padding: 25px;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 160px;
+  }
+  .h-radius2 {
+    border:3px solid gainsboro;
+    padding: 25px;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 180px;
+  }
+  .h-radius3 {
+    border:3px solid gainsboro;
+    padding: 25px;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 180px;
+  }
+  .h-radius4 {
+    border:3px solid gainsboro;
+    padding: 25px;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 160px;
+  }
+  .h-radius5 {
+    border:3px solid gainsboro;
+    padding: 25px;
+    background-color: linear-gradient(yellow, orange) ;
+    width: 160px;
+  }
+  .image-border {
+    border: 2px solid white; 
+}
+.image-border2 {
+    border: 2px solid white; 
+}
+.image-border3 {
+    border: 2px solid white; 
+}
+.image-border4 {
+    border: 2px solid white; 
+}
+.image-border5 {
+    border: 2px solid white; 
+}
+.image-border6 {
+    border: 2px solid white; 
+}
+.image-border7 {
+    border: 2px solid white; 
+}
+section{
+    display: flex;
+}
+.u-radius {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 160px;
+   }
+   .u-radius {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 160px;
+   }
+   .u-radius2 {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 160px;
+   }
+   .u-radius3 {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 160px;
+   }
+   .u-radius4 {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 160px;
+   }
+   .u-radius5 {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 160px;
+   }
+   .u-radius6 {
+    border:4px double gainsboro ;
+     padding: 25px;
+     border-radius: 10px 10px;
+     background-color: linear-gradient(yellow, orange) ;
+     width: 160px;
+   }
+
+
